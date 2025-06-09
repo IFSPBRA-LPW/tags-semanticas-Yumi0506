@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
+/* Fonte básica e reset */
+* {
+  font-family: "Roboto", sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+/* Cabeçalho */
+.header-container {
+  background-color: #0077cc;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
